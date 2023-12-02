@@ -1,0 +1,27 @@
+h1{
+font-family: 'Dancing Script';
+}
+.profile_img{
+    height: 100px;
+    border-radius: 50px;
+    margin: auto;
+}
+h2{
+   font-family: 'Comfortaa', sans-serif; 
+}
+h3{
+    font-family: 'Inter', sans-serif;
+}
+p{
+font-family: 'Oxygen', sans-serif;
+}
+.icon-link{
+    font-family: 'Comfortaa', sans-serif;
+/* font-family: 'Caveat', cursive; */
+}
+body{
+    background-color: #ecede8;
+}
+.check{
+    color: #1d1f24;
+}
